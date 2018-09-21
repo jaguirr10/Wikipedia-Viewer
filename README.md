@@ -1,3 +1,3 @@
 # Wikipedia-Viewer
 
-View Project http://www.juanswebdevprojects.com/wikiviewer.html
+View Project https://www.juanswebdevprojects.com/wikiviewer.html
